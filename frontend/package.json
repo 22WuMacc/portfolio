@@ -10,7 +10,7 @@
 		"build": "astro build",
 		"preview": "astro preview",
 		"astro": "astro",
-		"deploy": "astro build && wrangler pages deploy ./dist --project-name=oliver-mckenzie"
+		"deploy": "astro build && wrangler pages deploy dist --project-name=oliver-mckenzie"
 	},
 	"dependencies": {
 		"@sanity/client": "^7.23.0",
