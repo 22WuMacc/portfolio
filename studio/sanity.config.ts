@@ -9,7 +9,7 @@ export default defineConfig({
 	name: "default",
 	title: "oliver-mckenzie",
 
-	projectId: "kpkjot36",
+	projectId: "ymzxjfdz",
 	dataset: "production",
 
 	plugins: [structureTool({ structure }), visionTool(), assist()],

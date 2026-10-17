@@ -1,0 +1,9 @@
+{
+	"name": "oliver-mckenzie",
+	"compatibility_date": "2026-10-17",
+	"pages_build_output_dir": "./dist",
+	"vars": {
+		"PUBLIC_SANITY_API_VERSION": "2024-01-01",
+		"PUBLIC_SANITY_DATASET": "production"
+	}
+}
